@@ -1,3 +1,3 @@
 export default function Home() {
-  return <div>Main page medicine;
+  return <div>Main page medicine</div>;
 }
